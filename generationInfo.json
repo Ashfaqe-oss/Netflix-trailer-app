@@ -1,0 +1,10 @@
+{
+    "generationTool": "pwabuilder-api",
+    "generationToolVersion": "2.0.1-rc.0",
+    "platformId": "web",
+    "platformPackage": "pwabuilder-web",
+    "platformVersion": "2.0.0-rc.4",
+    "generatedFrom": "Website Wizard",
+    "generationDate": "2021-01-08 14:32:27 Z",
+    "generatedURL": "https://netflix-clone-5c2b5.web.app/manifest.json"
+}
